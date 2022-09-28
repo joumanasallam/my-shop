@@ -1,0 +1,1 @@
+dynamic baseurl="https://student.valuxapps.com/api/";
